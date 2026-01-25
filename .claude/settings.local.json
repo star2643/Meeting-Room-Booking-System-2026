@@ -3,7 +3,9 @@
     "allow": [
       "Bash(dir /b /ad \"c:\\\\Users\\\\User\\\\Desktop\\\\Research\\\\bookingSystem\")",
       "Bash(dir /b /ad \"c:\\\\Users\\\\User\\\\Desktop\\\\Research\\\\bookingSystem\\\\Meeting-Room-Booking-System\\\\src\")",
-      "Bash(dir:*)"
+      "Bash(dir:*)",
+      "Bash(sc query:*)",
+      "Bash(findstr:*)"
     ]
   }
 }
