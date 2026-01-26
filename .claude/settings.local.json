@@ -5,7 +5,9 @@
       "Bash(dir /b /ad \"c:\\\\Users\\\\User\\\\Desktop\\\\Research\\\\bookingSystem\\\\Meeting-Room-Booking-System\\\\src\")",
       "Bash(dir:*)",
       "Bash(sc query:*)",
-      "Bash(findstr:*)"
+      "Bash(findstr:*)",
+      "Bash(where:*)",
+      "Bash(\"C:/Program Files/MySQL/MySQL Server 8.4/bin/mysql.exe\":*)"
     ]
   }
 }
